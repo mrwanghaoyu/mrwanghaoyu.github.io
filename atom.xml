@@ -6,7 +6,7 @@
   <link href="https://mrwanghaoyu.github.io/atom.xml" rel="self"/>
   
   <link href="https://mrwanghaoyu.github.io/"/>
-  <updated>2021-01-30T03:58:33.648Z</updated>
+  <updated>2021-01-30T16:03:03.018Z</updated>
   <id>https://mrwanghaoyu.github.io/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Python_2</title>
+    <link href="https://mrwanghaoyu.github.io/2021/01/30/Python-2/"/>
+    <id>https://mrwanghaoyu.github.io/2021/01/30/Python-2/</id>
+    <published>2021-01-30T10:53:03.000Z</published>
+    <updated>2021-01-30T16:03:03.018Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;列表和元组&quot;&gt;&lt;a href=&quot;#列表和元组&quot; class=&quot;headerlink&quot; title=&quot;列表和元组&quot;&gt;&lt;/a&gt;列表和元组&lt;/h3&gt;&lt;p&gt;元组是&lt;strong&gt;不可更改&lt;/strong&gt;的&lt;br&gt;&lt;br&gt;&lt;code&gt;s =</summary>
+        
+      
+    
+    
+    
+    <category term="Python" scheme="https://mrwanghaoyu.github.io/categories/Python/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Python_1</title>
     <link href="https://mrwanghaoyu.github.io/2021/01/29/Python-1/"/>
     <id>https://mrwanghaoyu.github.io/2021/01/29/Python-1/</id>
     <published>2021-01-29T09:51:00.000Z</published>
-    <updated>2021-01-30T03:58:33.648Z</updated>
+    <updated>2021-01-30T15:50:51.884Z</updated>
     
     
       
